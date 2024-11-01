@@ -23,7 +23,7 @@
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
 ## Description
-
+ RESTful API setup using NestJS, integrated with MongoDB and Mongoose for data management, Swagger for clear API documentation, and Jest for comprehensive testing, featuring complete CRUD operations for efficient and scalable development.
 # Book Collection API
 
 ## Overview
