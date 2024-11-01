@@ -30,7 +30,7 @@
 The **Book Collection API** is a RESTful API built using the [NestJS](https://nestjs.com/) framework. It enables users to manage books and topics, providing endpoints for creating, updating, retrieving, and deleting books and topics stored in a MongoDB database.
 
 ## Project Structure
-
+```bash
 books-collection-api
       │ 
       │
@@ -99,7 +99,7 @@ books-collection-api
       ├── package.json
       ├── tsconfig.build.json
       ├── tsconfig.json
-
+```
 ## Structure Details
 
 ### Explanation of the `books-collection-api` Folder Structure:
