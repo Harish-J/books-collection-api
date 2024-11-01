@@ -188,20 +188,26 @@ This organization enhances code readability, maintainability, and scalability, m
 ## Installation
 
 ```bash
-$ npm install
+ npm install
 ```
+## if you get any error while running npm install run below command
+
+```bash
+ npm install --force
+```
+
 
 ## Compile and run the project
 
 ```bash
 # development
-$ npm run start
+ npm run start
 
 # watch mode
-$ npm run start:dev
+ npm run start:dev
 
 # production mode
-$ npm run start:prod
+ npm run start:prod
 ```
 
 ## API Document URL
@@ -214,10 +220,10 @@ http://localhost:3000/api
 ```bash
 
 # test with coverage
-$ npm run test:cov
+ npm run test:cov
 
 # unit tests
-$ npm run test
+ npm run test
 ```
 
 
