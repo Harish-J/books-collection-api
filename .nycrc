@@ -1,6 +1,0 @@
-{
-  "extension": [".ts"],
-  "exclude": ["**/*.spec.ts"],
-  "reporter": ["text", "html"],
-  "all": true
-}
