@@ -196,6 +196,11 @@ This organization enhances code readability, maintainability, and scalability, m
  npm install --force
 ```
 
+## MangoDB setup refer official webite and config mangodb url in .env file.
+```bash
+ https://www.mongodb.com/products/tools/compass
+```
+
 
 ## Compile and run the project
 
@@ -274,9 +279,9 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Harish Jathody]
+- Email  - [harishj2020@gmail.com](mail:harishj2020@gmail.com)
+- LinkedIn - [@harishjathody](https://www.linkedin.com/in/harishjathody/)
 
 ## License
 
